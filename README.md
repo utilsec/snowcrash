@@ -271,4 +271,4 @@ Whatever license you pick, it does not exempt users from the legal and ethical o
 
 ## Author
 
-Built as a hands-on companion tool for OT/ICS cybersecurity training and authorized Modbus pentest work.
+Vibe-coded hands-on companion tool for OT/ICS cybersecurity training and authorized Modbus pentest work.
